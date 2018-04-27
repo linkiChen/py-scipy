@@ -1,0 +1,5 @@
+requests 的安装：
+
+前提：正确安装了py3，并且配置好了pip路径
+
+打开doc输入: pip install requests
